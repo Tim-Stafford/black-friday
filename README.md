@@ -1,2 +1,2 @@
 # black-friday
-black friday notebook analysis
+black friday notebook analysis project.
